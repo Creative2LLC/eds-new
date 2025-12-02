@@ -1,7 +1,7 @@
 # Correct format for AEM Edge Delivery Services
 /:
   - type: aem
-    url: https://author-p171653-e1855116.adobeaemcloud.com/content/test-eds
+    url: https://author-p171653-e1855116.adobeaemcloud.com/content/test-eds/
 
 # Optional but recommended
 /content/dam:
