@@ -1,5 +1,9 @@
-mountpoints:
-  /:
-    url: "https://author-p171653-e1855116.adobeaemcloud.com/content/test-eds/index.html"
-    type: "markup"
-    suffix: ".html"
+# Correct format for AEM Edge Delivery Services
+/:
+  - type: aem
+    url: https://author-p171653-e1855116.adobeaemcloud.com/content/ncmec-eds-test
+
+# Optional but recommended
+/content/dam:
+  - type: aem
+    url: https://author-p171653-e1855116.adobeaemcloud.com/content/dam
