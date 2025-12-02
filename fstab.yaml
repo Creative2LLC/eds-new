@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p171653-e1855116.adobeaemcloud.com/content/ncmec-eds-test"
+    url: "https://author-p171653-e1855116.adobeaemcloud.com/sites.html/content/ncmec-eds-test"
     type: "markup"
     suffix: ".html"
